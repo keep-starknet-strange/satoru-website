@@ -34,9 +34,10 @@ function MainContent() {
           SATORU
         </h1>
         <p className="text-lg lg:text-xl mt-6 text-center lg:text-left">
-          Cutting-edge platform for Starknet, taking inspiration from the
-          modular design of GMX V2.
+          Supercharge Your Trading Game on starknet, Cost-Efficient and Blazzing Fast!
         </p>
+        <p className="text-sm lg:text-lg mt-6 text-center lg:text-left">Inspired by the
+          modular design of GMX V2.</p>
         <div className="flex justify-between items-center mt-12 lg:flex-row flex-col gap-8">
           <a
             href={SOCIALS_LINKS.documentation}
